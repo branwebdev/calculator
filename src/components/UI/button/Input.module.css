@@ -1,0 +1,22 @@
+.calbutton{
+    padding: 4%;
+    font-size: 0;
+}
+
+.buttonlabel{
+    position: absolute;
+    margin: 3%;
+    padding-left: 6px;
+}
+
+.buttonlabelAC{
+    padding-left: unset;
+}
+
+.zerobutton{
+    width: 16.52%;
+}
+
+.zerobuttonlabel{
+    padding-left: 75px;
+}
